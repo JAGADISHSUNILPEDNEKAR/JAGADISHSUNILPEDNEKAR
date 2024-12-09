@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Banner](https://raw.githubusercontent.com/JAGADISHSUNILPEDNEKAR/JAGADISHSUNILPEDNEKAR/refs/heads/main/DALL·E%202024-12-09%2016.13.12%20-%20A%20vibrant%20and%20modern%20GitHub%20profile%20banner%20featuring%20a%20tech%20theme%2C%20with%20abstract%20patterns%2C%20programming%20symbols%20like%20brackets%2C%20code%20lines%2C%20and%20a%20sleek%20.webp)
+
+
