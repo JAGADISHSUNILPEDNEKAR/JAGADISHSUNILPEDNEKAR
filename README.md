@@ -13,7 +13,7 @@ I’m a first-year undergraduate at **Polaris School of Technology**, passionate
 ## 🎮 Projects:  
 Here are a few of my notable projects:  
 - **[Habit Tracker Website](https://vermillion-longma-89f32f.netlify.app/)**: A web-based application to help users track and maintain daily habits effectively.  
-- **[Musical Website](link)**: A dynamic website where song lyrics sync with the music playback to enhance the user experience.  
+- **[Musical Website](https://juicewrld1.netlify.app)**: A dynamic website where song lyrics sync with the music playback to enhance the user experience.  
 - **[Guess the Number Game](https://jagadishsunilpednekar.github.io/Guess-the-number/)**: An interactive number-guessing game to help users improve their programming logic skills.  
 
 ## 🎓 Education:  
