@@ -4,8 +4,8 @@
 I’m a first-year undergraduate at **Polaris School of Technology**, passionate about **Blockchain**, **Web3**, **Crypto**, **AI**, and **Software Development**. I'm always exploring new technologies and building innovative solutions to tackle real-world problems.  
 
 ## 🛠️ Technologies I Work With:  
-- **Languages**: Java, JavaScript, C, C++  
-- **Web Development**: HTML, CSS, JavaScript  
+- **Languages**: Java, JavaScript, C, C++,Python   
+- **Web Development**: HTML, CSS, JavaScript, MERN
 - **Blockchain & Web3**: Exploring blockchain technologies and crypto projects  
 - **AI & Machine Learning**: Learning and experimenting with various AI models  
 - **Problem Solving**: Strong focus on algorithmic problem-solving  
