@@ -1,11 +1,11 @@
 ## Hi there 👋
 
+# Hello, I'm Jagadish Sunil Pednekar 👋  
+
 <div align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=700&height=60&lines=I+like+to+try+out+different+things+in+software;Figuring+out+things+by+trying;Bitcoin+Developer" alt="Typing SVG" /> 
 </div>
 
-
-# Hello, I'm Jagadish Sunil Pednekar 👋  
 
 I’m a freshman at **Polaris School of Technology**, passionate about **Blockchain**, **Web3**, **Crypto**, **AI**, and **Software Development**. I'm always exploring new technologies and building innovative solutions to tackle real-world problems.  
 
