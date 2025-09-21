@@ -7,7 +7,7 @@
 </div>
 
 
-I’m a freshman at **Polaris School of Technology**, passionate about **Blockchain**, **Web3**, **Crypto**, **AI**, and **Software Development**. I'm always exploring new technologies and building innovative solutions to tackle real-world problems.  
+I’m a sophomore at **Polaris School of Technology**, passionate about **Blockchain**, **Web3**, **Crypto**, **AI**, and **Software Development**. I'm always exploring new technologies and building innovative solutions to tackle real-world problems.  
 
 ## 🛠️ Technologies I Work With:  
 - **Languages**: Java, JavaScript, C, C++,Python   
