@@ -36,23 +36,6 @@ Here are a few of my notable projects:
 - **GitHub**: [Jagadish Sunil Pednekar](https://github.com/JAGADISHSUNILPEDNEKAR)  
 - **LeetCode**: [LeetCode Profile](https://leetcode.com/u/JagadishSP/)  
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAGADISHSUNILPEDNEKAR&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAGADISHSUNILPEDNEKAR&theme=tokyonight&hide_border=true" width="47%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAGADISHSUNILPEDNEKAR&theme=tokyo-night&hide_border=true" width="90%" />
-</div>
-
----
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</div>
-
----
 
 🚀 Feel free to explore my repositories, and I’d love to connect or collaborate on exciting open-source projects!  
 
